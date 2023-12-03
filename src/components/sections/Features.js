@@ -37,11 +37,11 @@ export default function Features() {
         </div>
       </div>
       <div className="-mt-4 text-primary1 text-[56px] leading-none font-medium">
-        Discover our product's{" "}
+        Discover our product&apos;s{" "}
         <span className="text-highlight">Capabilities</span>
       </div>
       <div className="font-inter text-secondary text-xl font-medium max-w-xl">
-        Don't settle for mediocrity - embrace the future of management with
+        Don&apos;t settle for mediocrity - embrace the future of management with
         Manage Wise.
       </div>
       <div className="my-6 flex justify-between gap-10 max-w-[85%] text-left">

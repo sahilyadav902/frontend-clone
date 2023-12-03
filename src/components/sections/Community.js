@@ -14,7 +14,7 @@ export default function Community() {
             height={40}
           />
           <div className="text-purple-600 text-xs font-semibold tracking-wider">
-            DON'T MISS OUT
+            DON&apos;T MISS OUT
           </div>
         </div>
         <div className="text-primary1 text-[56px] leading-none font-medium">
